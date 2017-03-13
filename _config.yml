@@ -4,17 +4,16 @@ markdown:            redcarpet
 highlighter:         pygments
 
 # Permalinks
-permalink:           /:title
-relative_permalinks: true
+permalink:           pretty
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+timezone:            Europe/Brussels # eg. Asia/Kathmandu
+locale:              be_nl # eg. en_us
+name:				         'Diep Droevige Dierenverhalen'
+title:               'Diep Droevige Dierenverhalen'
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 http://diepdroevigedierenverhalen.be
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -25,10 +24,10 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Miel Vander Sande
   url:            	 your site url
   facebook:          username
-  twitter:           username
+  twitter:           miel_vds
   google_plus:       username
   linkedin:          username
   dribbble:          username
